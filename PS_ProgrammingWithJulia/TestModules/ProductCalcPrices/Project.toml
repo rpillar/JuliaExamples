@@ -1,0 +1,4 @@
+name = "ProductCalcPrices"
+uuid = "1c18d7ca-b07c-42d5-97b5-e60d7be45c22"
+authors = ["Richard Pillar <richardpillar@googlemail.com>"]
+version = "0.1.0"
